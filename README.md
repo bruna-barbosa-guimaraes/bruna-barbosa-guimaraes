@@ -1,4 +1,4 @@
-<div>
+<div style="flex-direction: row">
     <p>
         Bem vindo ao meu perfil GitHub 👋
     </p>
