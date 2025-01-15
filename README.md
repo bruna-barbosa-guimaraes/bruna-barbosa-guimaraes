@@ -2,7 +2,7 @@
 
 <h3>Studying</h3>
 <div style="display: inline_block">
-  <img alt="C#"  src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Go"  src="https://img.shields.io/badge/Go-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
 <h3>Main skills</h3>
